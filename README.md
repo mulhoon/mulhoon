@@ -19,7 +19,7 @@
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=mulhoon&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-  ## 💰 Domate
+  ## 💰 Donate
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mulhoon) 
 
   
